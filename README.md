@@ -2,6 +2,10 @@
 
 Este é um projeto simples de aprendizado para criar uma calculadora básica em Python utilizando a biblioteca Tkinter para a interface gráfica.
 
+# Imagem
+
+![](https://ibb.co/g91MYQR)
+
 ## Requisitos
 
 - Python 3.x
