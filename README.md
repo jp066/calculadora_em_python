@@ -4,7 +4,7 @@ Este é um projeto simples de aprendizado para criar uma calculadora básica em 
 
 # Imagem
 
-![](https://ibb.co/g91MYQR)
+![](https://i.ibb.co/qjGM6hr/Captura-de-tela-2024-05-11-204956.png)
 
 ## Requisitos
 
